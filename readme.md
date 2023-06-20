@@ -1,4 +1,4 @@
-# ECTransNet: An Automatic Polyp Segmentation Network Based on Multiscale Edge Compensation
+# ECTransNet: An Automatic Polyp Segmentation Network Based on Multiscale Edge Complementary
 
 `
 Python 3.7
